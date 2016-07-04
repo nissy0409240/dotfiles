@@ -1,0 +1,8 @@
+[user]
+	name = [account_name]
+	email = [my_email_account]
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
