@@ -1,6 +1,8 @@
 [user]
     name = [account_name]
     email = [my_email_account]
+[coler]
+    ui = true
 [alias]
     st = status
     ts = status
