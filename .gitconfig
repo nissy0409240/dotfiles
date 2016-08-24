@@ -3,6 +3,7 @@
     email = [my_email_account]
 [alias]
     st = status
+    ts = status
     ci = commit
     br = branch
     co = checkout
