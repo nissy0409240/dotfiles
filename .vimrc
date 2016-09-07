@@ -7,3 +7,4 @@ set softtabstop=4 ""連続した空白に対してタブキーやバックスペ
 set autoindent  ""改行時に前の行のインデントを継続する
 set smartindent ""改行時に入力された行の末尾に合わせて次の行のインデントを増減する
 set nowrap ""行の途中で折り返さないようにする
+set backspace=indent,eol,start "バックスペースを有効にする
