@@ -14,10 +14,10 @@ if &compatible
 endif
 
 " Required:
-set runtimepath+=/Users/Yusuke/.vim/dein/repos/github.com/Shougo/dein.vim
+set runtimepath+=/Users/Yusuke/.vim//repos/github.com/Shougo/dein.vim
 
 " Required:
-call dein#begin('/Users/Yusuke/.vim/dein')
+call dein#begin('/Users/Yusuke/.vim/')
 
 " Let dein manage dein
 " Required:
